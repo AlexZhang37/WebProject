@@ -1,2 +1,2 @@
 # WebProject
-Webpro
+WebProject for tic-tac-toe game
